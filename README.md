@@ -14,7 +14,10 @@ ALYA HUSNA BINTI IBRAHIM 2019748
 ## Healthcare System
 
 ## Introduction and Objectives
-<text>  
+When operating any major healthcare centre, registration of patients comes first and foremost. Registration is required in order to provide services of the hospital to the patient and to keep a track of various services that are availed by each patient. This is also the first step to generate a medical record of the patient in which all medical details of the patient are documented.
+
+A newly opened clinic has enlisted the help of this project to create a systematic registration for new patients. Up until now, only manual registration was available to the patients, which resulted in a lot of difficulties in terms of keeping track of patients and the services required by them from the clinic. HealthWeb Systems (HWS) provides a simple and straightforward system for registration to be completed in the web, in order to manage the patients records. The web application would allow for the data to be synced more easily, and minimises loss of data.  
+ 
 
 ## Features and Functionalities
 A system's primary components are its features and functionalities. In our system,here are six features and functionalities for our system. 
